@@ -171,6 +171,14 @@ body {
 
 /* /============================================================= Navbar end ========================================================/ */
 
+.img-about {
+    width: 100%;
+    /* border-top: none; */
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background-color: white;
+}
+
 .main-div {
     /* display: flex; */
     background-color: white;
@@ -242,14 +250,6 @@ body {
 
 .sec {
     width: 100%;
-}
-
-.img-about {
-    width: 100%;
-    /* border-top: none; */
-    border-bottom-left-radius: 15px;
-    border-bottom-right-radius: 15px;
-    background-color: white;
 }
 
 
